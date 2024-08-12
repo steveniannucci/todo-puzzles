@@ -1,2 +1,2 @@
 # todo-puzzles
-Android Exclusive Procrastination Puzzle Pie To Do App
+Progressive Web App (PWA) version of the To-Do Puzzles Application
