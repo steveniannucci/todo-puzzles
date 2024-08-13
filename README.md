@@ -16,3 +16,5 @@ I hope you enjoy what the app has to offer.
 If you have any questions, feel free to send me an email at stevenaiannucci@gmail.com.
 
 Any bugs or issues reported should be resolved in a timely manner but I should have already taken care of each part of the app to ensure that everything works as intended for the best possible experience.
+
+You can even install the app once your on the page. You should see 
