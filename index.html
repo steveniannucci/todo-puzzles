@@ -73,7 +73,7 @@
     }
 
     // Listen for the beforeunload event
-    window.addEventListener('beforeunload', (event) => {
+    window.addEventListener('unload', (event) => {
       persistDeletions();
     });
   </script>
