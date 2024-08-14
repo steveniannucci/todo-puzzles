@@ -1,0 +1,21 @@
+{
+    "name": "To-Do Puzzles",
+    "short_name": "To-Do Puzzles",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "A Todo app with a twist that involves puzzles.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
