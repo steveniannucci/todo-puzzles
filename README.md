@@ -18,3 +18,5 @@ If you have any questions, feel free to send me an email at stevenaiannucci@gmai
 Any bugs or issues reported should be resolved in a timely manner but I should have already taken care of each part of the app to ensure that everything works as intended for the best possible experience.
 
 You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url.
+
+Currently, the active puzzles are being treated differently from expired ones. I recommend making an active puzzle with a far off deadline and export it to file so that you can use and import it in the case you want to reset the app proper. Users can't seem to permanently delete expired puzzles or make expired ones truly active.
