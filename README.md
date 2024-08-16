@@ -19,4 +19,4 @@ Any bugs or issues reported should be resolved in a timely manner but I should h
 
 You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url.
 
-Currently, the active puzzles are being treated differently from expired ones. I highly recommend making an active puzzle with a far off deadline and export it to a file so that you can use and import it in the case you want to reset the app proper. Users can't seem to permanently delete expired puzzles or make expired ones truly active. This is evident upon refresh. Shockingly, the Delete Data option doesn't resolve the issue either.
+Currently, the active puzzles are being treated differently from expired ones. Before you do anything, I highly recommend exporting the empty data to a file so that you can use and import it in the case you want to reset the app proper. Users can't seem to permanently delete expired puzzles or make expired ones truly active. This is evident upon refresh. Shockingly, the Delete Data option doesn't resolve the issue either.
