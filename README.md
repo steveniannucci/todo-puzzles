@@ -17,6 +17,6 @@ If you have any questions, feel free to send me an email at stevenaiannucci@gmai
 
 Any bugs or issues reported should be resolved in a timely manner but I should have already taken care of each part of the app to ensure that everything works as intended for the best possible experience.
 
-You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url.
+You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download under Releases.
 
-Currently, the active puzzles are being treated differently from expired ones. Before you do anything, I highly recommend exporting the empty data to a file so that you can use and import it in the case you want to reset the app proper. Users can't seem to permanently delete expired puzzles or make expired ones truly active. This is evident upon refresh. Shockingly, the Delete Data option doesn't resolve the issue either.
+Currently, on web platforms, the active puzzles are being treated differently from expired ones. It's best that, in the event of there being a bugged expired puzzle (puzzles that comes back despite being deleted or automatically reverts to being expired when made active when the app is opened after having been closed), users consider it a placeholder and leave it alone so they can continue using the app as intended. So long as you don't mess with the "placeholder", the states that you left your puzzles after closing the app should remain as is. I'm not sure what's causing the issue, but until it gets fixed, this is the best way to handle it.
