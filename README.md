@@ -23,7 +23,8 @@ Currently, on web platforms, the active puzzles are being treated differently fr
 
 UPDATES
 
-Version 1.1: 
+Version 1.1:
+- Added setting to switch between showing or hiding the active timers on puzzle pages.
 - Added complete accessibility for keyboard users.
 - Added semantics to essential elements for screen readers.
-- The slider has been replaced with radio buttons for the number of pieces section in the create puzzle and edit puzzle dialog boxes. 
+- The slider has been replaced with radio buttons for the number of pieces section in the create puzzle and edit puzzle dialog boxes.
