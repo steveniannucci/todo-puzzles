@@ -25,5 +25,5 @@ UPDATES
 
 Version 1.1: 
 - Added complete accessibility for keyboard users.
-- Added semantics for essential elements.
+- Added semantics to essential elements for screen readers.
 - The slider has been replaced with radio buttons for the number of pieces section in the create puzzle and edit puzzle dialog boxes. 
