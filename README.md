@@ -19,4 +19,11 @@ Any bugs or issues reported should be resolved in a timely manner but I should h
 
 You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download under Releases.
 
-Currently, on web platforms, the active puzzles are being treated differently from expired ones. It's best that, in the event of there being a bugged expired puzzle (puzzles that comes back despite being deleted or automatically reverts to being expired when made active when the app is opened after having been closed), users consider the expired puzzle as a placeholder and leave it alone so they can continue using the app as intended. So long as you don't mess with the "placeholder", the states that you left your puzzles after closing the app should remain as is. I'm not sure what's causing the issue, but until it gets fixed, this is the best way to handle it.
+Currently, on web platforms, the active puzzles are being treated differently from expired ones. It's best that, in the event of there being a bugged expired puzzle (puzzles that come back despite being deleted or automatically reverts to being expired when made active when the app is opened after having been closed), users consider the expired puzzle as a placeholder and leave it alone so they can continue using the app as intended. So long as you don't mess with the "placeholder", the states that you left your puzzles after closing the app should remain as is. I'm not sure what's causing the issue, but until it gets fixed, this is the best way to handle it.
+
+UPDATES
+
+Version 1.1: 
+- Added complete accessibility for keyboard users.
+- Added semantics for essential elements.
+- The slider has been replaced with radio buttons for the number of pieces section in the create puzzle and edit puzzle dialog boxes. 
