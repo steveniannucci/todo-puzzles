@@ -28,3 +28,6 @@ Version 1.1:
 - Added complete accessibility for keyboard users.
 - Added semantics to essential elements for screen readers.
 - The slider has been replaced with radio buttons for the number of pieces section in the create puzzle and edit puzzle dialog boxes.
+
+Version 1.2:
+- Users can now change the reward image of puzzles even after they have been created (Help page will later be updated to reflect the change).
