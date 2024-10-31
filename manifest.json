@@ -1,7 +1,7 @@
 {
     "name": "To-Do Puzzles",
     "short_name": "To-Do Puzzles",
-    "start_url": "/todo-puzzles/",
+    "start_url": "/",
     "display": "standalone",
     "description": "A Todo app with a twist that involves puzzles.",
     "orientation": "portrait-primary",
