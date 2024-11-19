@@ -19,6 +19,8 @@ Any bugs or issues reported should be resolved in a timely manner but I should h
 
 You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download under Releases.
 
+Note: Cross-platform importing won't transfer user uploaded images. The default reward image will replace them but the rest of the data will transfer successfully.
+
 UPDATES
 
 Version 1.1:
