@@ -9,7 +9,7 @@ Each puzzle you need to create will come with a customizable name, category, dea
 
 The performance of the app may vary depending on the types of images and number you choose to upload to the app. GIF images may slow down the app significantly.
 
-Disclaimer: Any image you upload will only be saved to a local database for the specific puzzle you upload it for. Once you delete the puzzle, the image will also be deleted from the app.
+Disclaimer: Any image you upload will only be saved to a local database for the specific puzzle you uploaded it for. Once you delete the puzzle, the image will also be deleted from the app's database.
 
 I hope you enjoy what the app has to offer.
 
