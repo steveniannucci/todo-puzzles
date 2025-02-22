@@ -31,3 +31,7 @@ Version 1.1:
 
 Version 1.2:
 - Users can now change the reward image of puzzles even after they have been created.
+
+Version 1.3:
+- New Surprise Mode feature will allow users to choose a number of images to be chosen at random for the reward image when creating puzzles.
+- Categories feature is more robust with validation checks to prevent duplication of existing categories.
