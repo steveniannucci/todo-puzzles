@@ -19,8 +19,6 @@ Any bugs or issues reported should be resolved in a timely manner but I should h
 
 You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download on the Google Play Store.
 
-Note: Cross-platform importing won't transfer user uploaded images. The default reward image will replace them but the rest of the data will transfer successfully.
-
 UPDATES
 
 Version 1.1:
@@ -37,3 +35,6 @@ Version 1.3:
 - New Surprise Mode feature will allow users to choose a number of images to be chosen at random for the reward image when creating puzzles.
 - Categories feature is more robust with validation checks to prevent duplication of existing categories.
 - Expired puzzles will stop persisting from deletion.
+
+Version 1.4:
+- Cross-platform importing will now successfully transfer reward images with the rest of the data.
