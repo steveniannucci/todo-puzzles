@@ -17,7 +17,7 @@ If you have any questions, feel free to send me an email at johnabovelledev@gmai
 
 Any bugs or issues reported should be resolved in a timely manner but I should have already taken care of each part of the app to ensure that everything works as intended for the best possible experience.
 
-You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download under Releases.
+You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download on the Google Play Store.
 
 Note: Cross-platform importing won't transfer user uploaded images. The default reward image will replace them but the rest of the data will transfer successfully.
 
