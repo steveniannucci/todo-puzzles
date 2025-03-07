@@ -61,7 +61,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2a6be04cc06afda2ba0b11e39db2dc31
 "assets/assets/puzzles/8/6.png": "9379e9523231ed2432bedbb9d442989b",
 "assets/assets/puzzles/8/7.png": "a392cc4ea62c52152d917b4d97c0756c",
 "assets/assets/puzzles/8/8.png": "d1b249038ff6b50448ed4add54c63646",
-"assets/assets/rewards/default_reward.png": "82bc0e4924f8e08cdc752910f703902f",
+"assets/assets/rewards/default_reward.png": "9797a411bcee07f53985e82186658259",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "37b6a71e1a3a2c9de10268c898142d8b",
 "assets/NOTICES": "776fed05f101710783e736ab2d0d9b46",
@@ -79,18 +79,18 @@ const RESOURCES = {"assets/AssetManifest.bin": "2a6be04cc06afda2ba0b11e39db2dc31
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.ico": "fe31c28c2a3f033bcf8ce09fdaf4c08c",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "34bc68184b1920b7b379b6428517f942",
+"flutter_bootstrap.js": "ef6da57568c1a417eae33bfc09fceacd",
 "icons/android-chrome-192x192.png": "1e57b1fc95123c2553e749dc02a85374",
 "icons/android-chrome-512x512.png": "9ad0f9345f1f7ebaa5df4736e713d40c",
 "icons/apple-touch-icon.png": "8f68fda99f8b5a8eb22c00f91d1eedf3",
 "icons/favicon-16x16.png": "dd010301c60f9065f2854bf4138446b9",
 "icons/favicon-32x32.png": "90650b3c0743f3623e18fbced475e5ad",
-"index.html": "a23fbdb5487bd8209e8b08a5940305ba",
-"/": "a23fbdb5487bd8209e8b08a5940305ba",
+"index.html": "bbf88cfff7b8834974646e47037f8fde",
+"/": "bbf88cfff7b8834974646e47037f8fde",
 "js/sql.js": "b3743183c44b227e1624374a154c592f",
-"main.dart.js": "f3c600dad98d751289cf79034fc44a1e",
+"main.dart.js": "18e72d81b745491d10b362d625df2314",
 "manifest.json": "535472e4a9cf1cbe8517cff0918fba35",
-"version.json": "8a903f02396ce28592c5910c85754e16"};
+"version.json": "50ca37ec12a435b41660bef281a39f39"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
