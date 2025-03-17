@@ -1,9 +1,9 @@
 # todo-puzzles
 Progressive Web App (PWA) version of the To-Do Puzzles Application.
 
-It's a brand new way to-do anything.
+Make any task a puzzle and make any image your reward.
 
-Introducing To-Do Puzzles where to-do list items are expanded into simple puzzles inspired by a mini-game from "Scooby-Doo! Unmasked" on the Game Boy Advance redesigned for a todo app.
+Introducing To-Do Puzzles where to-do list items are expanded into simple puzzles inspired by a mini-game from the "Scooby-Doo! Unmasked" Game Boy Advance game redesigned for a todo app.
 
 Each puzzle you need to create will come with a customizable name, category, deadline, up to eight pieces for each task and a reward image. You can even upload any image from your device in place of the reward image for completing the puzzles for a more "rewarding" experience. To add an element of surprise, you can have a friend or family member set up the puzzles for you.
 
