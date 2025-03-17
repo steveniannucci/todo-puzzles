@@ -17,7 +17,9 @@ If you have any questions, feel free to send me an email at johnabovelledev@gmai
 
 Any bugs or issues reported should be resolved in a timely manner but I should have already taken care of each part of the app to ensure that everything works as intended for the best possible experience.
 
-You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. An Android version is also available to download on the Google Play Store: https://play.google.com/store/apps/details?id=com.johnbovelle.todo_puzzles. There is an App Open Ad unit included in the mobile version. I've coded the unit in a way that shouldn't be as intrusive to the user and they can close it by clicking the Continue to app prompt once it appears in the top right corner of the screen. A loading animation will warn the user when it will pop up.
+You can even install the app once you're on the page. You should see the install icon next to the share icon in the address bar with the url. 
+
+An Android version is also available to download on the Google Play Store: https://play.google.com/store/apps/details?id=com.johnbovelle.todo_puzzles. There is an App Open Ad unit included in the mobile version. I've coded the unit in a way that shouldn't be as intrusive to the user and they can close it by clicking the Continue to app prompt once it appears in the top right corner of the screen. A loading animation will warn the user when it will pop up.
 
 UPDATES
 
