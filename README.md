@@ -34,7 +34,7 @@ Version 1.2:
 
 Version 1.3:
 - Completed puzzles section will now show up on the home page to hold completed puzzles and will no longer be labelled as active or expired puzzles.
-- New Surprise Mode feature will allow users to choose a number of images to be chosen at random for the reward image when creating puzzles.
+- New Surprise Mode feature will allow users to choose a number of images to be chosen at random for the reward image when creating puzzles (mobile version only).
 - Categories feature is more robust with validation checks to prevent duplication of existing categories.
 - Expired puzzles will stop persisting from deletion.
 
