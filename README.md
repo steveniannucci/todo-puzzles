@@ -5,11 +5,11 @@ Make any task a puzzle and make any image your reward.
 
 Introducing To-Do Puzzles where to-do list items are expanded into simple puzzles inspired by a mini-game from the "Scooby-Doo! Unmasked" Game Boy Advance game redesigned for a todo app.
 
-Each puzzle you need to create will come with a customizable name, category, deadline, up to eight pieces for each task and a reward image. You can even upload any image from your device in place of the reward image for completing the puzzles for a more "rewarding" experience. To add an element of surprise, you can have a friend or family member set up the puzzles for you.
+Each puzzle you need to create will come with a customizable name, category, deadline, up to eight pieces for each task and a reward image. You can even upload any image from your device in place of the reward image for completing the puzzles for a more "rewarding" experience. To add an element of surprise, you can have a friend or family member set up the puzzles for you. You can also use the Surprise Mode feature (available on Android) and have the app choose from the images you select from your device at random.
 
 The performance of the app may vary depending on the types of images and number you choose to upload to the app. GIF images may slow down the app significantly.
 
-Disclaimer: Any image you upload will only be saved to a local database for the specific puzzle you uploaded it for. Once you delete the puzzle, the image will also be deleted from the app's database.
+Disclaimer: Any image you upload will only be saved to a local database (not connected to an external server) for the specific puzzle you uploaded it for. Once you delete the puzzle, the image will also be deleted from the app's database.
 
 I hope you enjoy what the app has to offer.
 
